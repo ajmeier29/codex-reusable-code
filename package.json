@@ -1,0 +1,10 @@
+{
+  "name": "codex-reusable-code",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "pnpm -r test",
+    "typecheck": "pnpm -r typecheck"
+  },
+  "packageManager": "pnpm@9.15.4"
+}
