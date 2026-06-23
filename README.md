@@ -5,6 +5,7 @@ Reusable implementation packages extracted from production application work so f
 ## Packages
 
 - [OAuth + Email Code Login](./packages/oauth-email-code-login/README.md): reusable email-code login, Google OAuth, Apple OAuth, session cookies, database contract, Next.js route examples, and AI implementation prompt.
+- [Stripe Subscription Billing](./packages/stripe-subscription-billing/README.md): reusable Stripe checkout, embedded checkout, customer portal, cancel/reactivate flow, webhooks, subscription sync, billing lifecycle emails, payment-failure dedupe, database contract, Next.js route examples, and AI implementation prompt.
 
 ## Standards
 
